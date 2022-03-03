@@ -1,2 +1,2 @@
 # API_Polimarket
-API con .NET Framework
+Nombre DB: db_web_polimarket
