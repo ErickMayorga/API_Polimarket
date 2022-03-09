@@ -1,0 +1,42 @@
+-- LOGIN Y SIGN IN
+SELECT * FROM Usuario
+SELECT * FROM Usuario_Rol
+
+-- PERFILES
+SELECT * FROM Usuario
+
+-- CLIENTE
+-- LISTA DE OFERTAS
+SELECT * FROM Producto
+SELECT * FROM Sucursal_Producto
+SELECT * FROM Sucursal
+SELECT * FROM Categoria
+
+-- CARRITO
+SELECT * FROM Pedido
+SELECT * FROM Pedido_Detalle
+SELECT * FROM TarjetaCredito
+SELECT * FROM Sucursal_Producto
+
+-- ADMINISTRADOR
+-- DASHBOARD
+SELECT * FROM Sucursal_Producto
+SELECT * FROM Pedido
+SELECT * FROM Pedido_Detalle
+SELECT * FROM Sucursal
+
+-- PRODUCTOS
+SELECT * FROM Producto
+SELECT * FROM Sucursal_Producto
+
+-- PEDIDOS
+SELECT * FROM Pedido
+SELECT * FROM Pedido_Detalle
+
+-- ADMINSTRADOR GENERAL
+-- USUARIOS
+SELECT * FROM Usuario
+SELECT * FROM Usuario_Rol
+
+-- PRODUCTOS
+SELECT * FROM Producto
